@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "vitest.enable": "true",
+        "vitest.commandLine": "npx vitest"
+    }
+}
